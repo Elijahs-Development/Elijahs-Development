@@ -23,6 +23,8 @@ Dashboard: https://elijahsdev.me/dashboard
 <a href="https://cryptoware.info">CryptoWare</a>
 <br>
 <a href="https://hexxlabs.xyz">Hexx Labs</a>
+<br>
+<a href="https://play.baggot.xyz">Baggot</a>
 
 ## Our Sponsors!
 <br>
