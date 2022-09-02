@@ -13,9 +13,9 @@ Dashboard: https://elijahsdev.me/dashboard
 
 
 ## Our Customers love the results of there sites!
-<a href="https://diplord.xyz">Diplord</a>
+<a href="https://diplord.xyz">Diplord</a> <b>Closed</b>
 <br>
-<a href="https://matrixdev.xyz">Matrix Development</a>
+<a href="https://matrixdev.xyz">Matrix Development</a> <b>OLD</b>
 
 ## Our Other Sites!
 <a href="https://heize.xyz">Heize</a>
